@@ -17,7 +17,7 @@ The user provides a text file containing grayscale image data, and the program g
 
 ---
 
-## 🚀 How to Compile & Run
+##  How to Compile & Run
 
 ```bash
 g++ -o glcm_analyzer main.cpp
@@ -26,7 +26,7 @@ g++ -o glcm_analyzer main.cpp
 
 ---
 
-## 📄 Example Input (sample-input.txt)
+##  Example Input (sample-input.txt)
 
 ```
 5 5
@@ -42,7 +42,7 @@ Then the image matrix values (grayscale intensities).
 
 ---
 
-## 🧪 Sample Output
+##  Sample Output
 
 ```
 Contrast: 8.9375
@@ -52,7 +52,7 @@ Homogeneity: 0.2919
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 Yasmine Elsisi – [GitHub](https://github.com/YasmineElsisi)
 
