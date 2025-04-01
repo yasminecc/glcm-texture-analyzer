@@ -9,7 +9,7 @@ The user provides a text file containing grayscale image data, and the program g
 
 ---
 
-## 📂 Files
+## Files
 
 - `main.cpp` – Full implementation
 - `sample-input.txt` – Sample test file with a grayscale matrix
@@ -17,7 +17,7 @@ The user provides a text file containing grayscale image data, and the program g
 
 ---
 
-## 🚀 How to Compile & Run
+## How to Compile & Run
 
 ```bash
 g++ -o glcm_analyzer main.cpp
