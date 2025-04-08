@@ -9,7 +9,7 @@ The user provides a text file containing grayscale image data, and the program g
 
 ---
 
-## 📂 Files
+##  Files
 
 - `main.cpp` – Full implementation
 - `sample-input.txt` – Sample test file with a grayscale matrix
@@ -54,10 +54,7 @@ Homogeneity: 0.2919
 
 ##  Author
 
-Yasmine Elsisi – [GitHub](https://github.com/YasmineElsisi)
+Yasmine Elsisi 
 
 ---
 
-## 📜 License
-
-MIT License
